@@ -1,0 +1,14 @@
+
+#!/bin/tcsh.exe
+export WORKAREA="`pwd`/../"
+
+alias sc="cd $WORKAREA/sim"
+alias rtl="cd $WORKAREA/rtl"
+alias tst="cd $WORKAREA/test"
+alias tb="cd $WORKAREA/tb"
+alias dosim="$WORKAREA/sim/dosim.sh"
+dosim.sh
+
+#!/bin/bash
+
+make TESTNAME=$1

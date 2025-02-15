@@ -1,0 +1,57 @@
+D:/congluan/timer_prj/rtl/register_control.v {1 {vlog -work work -vopt D:/congluan/timer_prj/rtl/register_control.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module register_control
+
+Top level modules:
+	register_control
+
+} {} {}} D:/congluan/timer_prj/tb/tb_counter.v {1 {vlog -work work -vopt D:/congluan/timer_prj/tb/tb_counter.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module tb_counter
+
+Top level modules:
+	tb_counter
+
+} {} {}} D:/congluan/timer_prj/vip/cpu_model.v {1 {vlog -work work -vopt D:/congluan/timer_prj/vip/cpu_model.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module cpu_model
+
+Top level modules:
+	cpu_model
+
+} {} {}} D:/congluan/timer_prj/rtl/clk_sel.v {1 {vlog -work work -vopt D:/congluan/timer_prj/rtl/clk_sel.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module clk_sel
+
+Top level modules:
+	clk_sel
+
+} {} {}} D:/congluan/timer_prj/rtl/control_logic.v {1 {vlog -work work -vopt D:/congluan/timer_prj/rtl/control_logic.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module control_logic
+
+Top level modules:
+	control_logic
+
+} {} {}} D:/congluan/timer_prj/tb/tb_clk_sel.v {1 {vlog -work work -vopt D:/congluan/timer_prj/tb/tb_clk_sel.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module tb_clk_sel
+
+Top level modules:
+	tb_clk_sel
+
+} {} {}} D:/congluan/timer_prj/rtl/timer_counter.v {1 {vlog -work work -vopt D:/congluan/timer_prj/rtl/timer_counter.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module timer_counter
+
+Top level modules:
+	timer_counter
+
+} {} {}} D:/congluan/timer_prj/vip/clk_rst_gen.v {1 {vlog -work work -vopt D:/congluan/timer_prj/vip/clk_rst_gen.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module clk_rst_gen
+
+Top level modules:
+	clk_rst_gen
+
+} {} {}}
